@@ -5,7 +5,6 @@ document.getElementById("keypad").addEventListener('click', function (event) {
         if (pressed == "=") {
             let current_value = document.getElementById("screen").value
             document.getElementById("screen").value = eval(current_value);
-
         }
 
         else if (pressed == "<") {
