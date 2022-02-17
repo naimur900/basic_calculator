@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(52, 52, 73) !important;
+  font-size: larger !important;
+}
+.form {
+  background-color: rgb(133, 133, 133) !important;
+  height: 50px !important;
+}
+.keys {
+  background-color: rgb(38, 38, 54) !important;
+}
+.container{
+    width: 450px !important;
+    
+}
